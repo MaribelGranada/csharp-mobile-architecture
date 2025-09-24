@@ -1,0 +1,15 @@
+C:\Users\PC_WIM11\new-clone-csharp\blucles-poliformismo-excepcione\obj\Debug\net9.0\blucles-poliformismo-excepcione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC_WIM11\new-clone-csharp\blucles-poliformismo-excepcione\obj\Debug\net9.0\blucles-poliformismo-excepcione.AssemblyInfoInputs.cache
+C:\Users\PC_WIM11\new-clone-csharp\blucles-poliformismo-excepcione\obj\Debug\net9.0\blucles-poliformismo-excepcione.AssemblyInfo.cs
+C:\Users\PC_WIM11\new-clone-csharp\blucles-poliformismo-excepcione\obj\Debug\net9.0\blucles-poliformismo-excepcione.csproj.CoreCompileInputs.cache
+C:\Users\PC_WIM11\new-clone-csharp\blucles-poliformismo-excepcione\obj\Debug\net9.0\blucles-poliformismo-excepcione.sourcelink.json
+C:\Users\PC_WIM11\new-clone-csharp\blucles-poliformismo-excepcione\bin\Debug\net9.0\blucles-poliformismo-excepcione.exe
+C:\Users\PC_WIM11\new-clone-csharp\blucles-poliformismo-excepcione\bin\Debug\net9.0\blucles-poliformismo-excepcione.deps.json
+C:\Users\PC_WIM11\new-clone-csharp\blucles-poliformismo-excepcione\bin\Debug\net9.0\blucles-poliformismo-excepcione.runtimeconfig.json
+C:\Users\PC_WIM11\new-clone-csharp\blucles-poliformismo-excepcione\bin\Debug\net9.0\blucles-poliformismo-excepcione.dll
+C:\Users\PC_WIM11\new-clone-csharp\blucles-poliformismo-excepcione\bin\Debug\net9.0\blucles-poliformismo-excepcione.pdb
+C:\Users\PC_WIM11\new-clone-csharp\blucles-poliformismo-excepcione\obj\Debug\net9.0\blucles-poliformismo-excepcione.dll
+C:\Users\PC_WIM11\new-clone-csharp\blucles-poliformismo-excepcione\obj\Debug\net9.0\refint\blucles-poliformismo-excepcione.dll
+C:\Users\PC_WIM11\new-clone-csharp\blucles-poliformismo-excepcione\obj\Debug\net9.0\blucles-poliformismo-excepcione.pdb
+C:\Users\PC_WIM11\new-clone-csharp\blucles-poliformismo-excepcione\obj\Debug\net9.0\blucles-poliformismo-excepcione.genruntimeconfig.cache
+C:\Users\PC_WIM11\new-clone-csharp\blucles-poliformismo-excepcione\obj\Debug\net9.0\ref\blucles-poliformismo-excepcione.dll

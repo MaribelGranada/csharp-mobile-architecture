@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "blucles-poliformismo-excepcione/1.0.0": {
+        "runtime": {
+          "blucles-poliformismo-excepcione.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "blucles-poliformismo-excepcione/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
