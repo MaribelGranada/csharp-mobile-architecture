@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("clases-y-herencia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34d4f71ad7073e87b1c3dea8f3f4172df91bf96c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fce486e394dd143d84eea23420bed74b2d88709")]
 [assembly: System.Reflection.AssemblyProductAttribute("clases-y-herencia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("clases-y-herencia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
