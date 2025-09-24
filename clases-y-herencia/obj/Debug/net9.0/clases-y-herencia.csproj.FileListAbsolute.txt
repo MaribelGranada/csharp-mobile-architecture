@@ -1,0 +1,15 @@
+C:\Users\PC_WIM11\new-clone-csharp\clases-y-herencia\obj\Debug\net9.0\clases-y-herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC_WIM11\new-clone-csharp\clases-y-herencia\obj\Debug\net9.0\clases-y-herencia.AssemblyInfoInputs.cache
+C:\Users\PC_WIM11\new-clone-csharp\clases-y-herencia\obj\Debug\net9.0\clases-y-herencia.AssemblyInfo.cs
+C:\Users\PC_WIM11\new-clone-csharp\clases-y-herencia\obj\Debug\net9.0\clases-y-herencia.csproj.CoreCompileInputs.cache
+C:\Users\PC_WIM11\new-clone-csharp\clases-y-herencia\obj\Debug\net9.0\clases-y-herencia.sourcelink.json
+C:\Users\PC_WIM11\new-clone-csharp\clases-y-herencia\bin\Debug\net9.0\clases-y-herencia.exe
+C:\Users\PC_WIM11\new-clone-csharp\clases-y-herencia\bin\Debug\net9.0\clases-y-herencia.deps.json
+C:\Users\PC_WIM11\new-clone-csharp\clases-y-herencia\bin\Debug\net9.0\clases-y-herencia.runtimeconfig.json
+C:\Users\PC_WIM11\new-clone-csharp\clases-y-herencia\bin\Debug\net9.0\clases-y-herencia.dll
+C:\Users\PC_WIM11\new-clone-csharp\clases-y-herencia\bin\Debug\net9.0\clases-y-herencia.pdb
+C:\Users\PC_WIM11\new-clone-csharp\clases-y-herencia\obj\Debug\net9.0\clases-y-herencia.dll
+C:\Users\PC_WIM11\new-clone-csharp\clases-y-herencia\obj\Debug\net9.0\refint\clases-y-herencia.dll
+C:\Users\PC_WIM11\new-clone-csharp\clases-y-herencia\obj\Debug\net9.0\clases-y-herencia.pdb
+C:\Users\PC_WIM11\new-clone-csharp\clases-y-herencia\obj\Debug\net9.0\clases-y-herencia.genruntimeconfig.cache
+C:\Users\PC_WIM11\new-clone-csharp\clases-y-herencia\obj\Debug\net9.0\ref\clases-y-herencia.dll
